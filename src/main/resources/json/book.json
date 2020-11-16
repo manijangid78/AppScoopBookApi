@@ -1,0 +1,421 @@
+[
+  {
+    "kind": "books#volume",
+    "id": "kIYSAAAAIAAJ",
+    "etag": "AqoDY/Qlkdk",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/kIYSAAAAIAAJ",
+    "volumeInfo": {
+      "title": "Thesavrvs Lingvae Latinae Compendiarivs Or, A Compendious Dictionary of the Latin Tongue",
+      "subtitle": "Designed Chiefly for the Use of the British Nations ...",
+      "authors": [
+        "Robert Ainsworth"
+      ],
+      "publishedDate": "1751",
+      "industryIdentifiers": [
+        {
+          "type": "OTHER",
+          "identifier": "NYPL:33433075918759"
+        }
+      ],
+      "readingModes": {
+        "text": false,
+        "image": true
+      },
+      "printType": "BOOK",
+      "categories": [
+        "English language"
+      ],
+      "maturityRating": "NOT_MATURE",
+      "allowAnonLogging": false,
+      "contentVersion": "0.2.2.0.full.1",
+      "panelizationSummary": {
+        "containsEpubBubbles": false,
+        "containsImageBubbles": false
+      },
+      "imageLinks": {
+        "smallThumbnail": "http://books.google.com/books/content?id=kIYSAAAAIAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=kIYSAAAAIAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+      },
+      "language": "en",
+      "previewLink": "http://books.google.co.in/books?id=kIYSAAAAIAAJ&pg=PP433&dq=a&hl=&as_brr=7&cd=1&source=gbs_api",
+      "infoLink": "https://play.google.com/store/books/details?id=kIYSAAAAIAAJ&source=gbs_api",
+      "canonicalVolumeLink": "https://play.google.com/store/books/details?id=kIYSAAAAIAAJ"
+    }
+  },
+  {
+    "kind": "books#volume",
+    "id": "oH9FAAAAcAAJ",
+    "etag": "9ca6HNlaXoA",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/oH9FAAAAcAAJ",
+    "volumeInfo": {
+      "title": "A Dictionary of the Anglo-Saxon Language ...",
+      "subtitle": "With a Preface on the Origin and Connexion of the Germanic Tongues - a Map of Languages - and the Essentials of Anglo-Saxon Grammar",
+      "authors": [
+        "Joseph Bosworth"
+      ],
+      "publishedDate": "1838",
+      "industryIdentifiers": [
+        {
+          "type": "OTHER",
+          "identifier": "BSB:BSB10523018"
+        }
+      ],
+      "readingModes": {
+        "text": false,
+        "image": true
+      },
+      "pageCount": 721,
+      "printType": "BOOK",
+      "categories": [
+        "Encyclopedias and dictionaries"
+      ],
+      "maturityRating": "NOT_MATURE",
+      "allowAnonLogging": false,
+      "contentVersion": "2.4.4.0.full.1",
+      "panelizationSummary": {
+        "containsEpubBubbles": false,
+        "containsImageBubbles": false
+      },
+      "imageLinks": {
+        "smallThumbnail": "http://books.google.com/books/content?id=oH9FAAAAcAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=oH9FAAAAcAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+      },
+      "language": "en",
+      "previewLink": "http://books.google.co.in/books?id=oH9FAAAAcAAJ&pg=RA7-PA2&dq=a&hl=&as_brr=7&cd=2&source=gbs_api",
+      "infoLink": "https://play.google.com/store/books/details?id=oH9FAAAAcAAJ&source=gbs_api",
+      "canonicalVolumeLink": "https://play.google.com/store/books/details?id=oH9FAAAAcAAJ"
+    }
+  },
+  {
+    "kind": "books#volume",
+    "id": "VyQ-AAAAcAAJ",
+    "etag": "BUNu3acDrB0",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/VyQ-AAAAcAAJ",
+    "volumeInfo": {
+      "title": "A Dictionary of the Welsh Language Explained in English",
+      "authors": [
+        "William Owen"
+      ],
+      "publishedDate": "1803",
+      "industryIdentifiers": [
+        {
+          "type": "OTHER",
+          "identifier": "BCUL:1094788459"
+        }
+      ],
+      "readingModes": {
+        "text": false,
+        "image": true
+      },
+      "printType": "BOOK",
+      "maturityRating": "NOT_MATURE",
+      "allowAnonLogging": false,
+      "contentVersion": "0.1.2.0.full.1",
+      "panelizationSummary": {
+        "containsEpubBubbles": false,
+        "containsImageBubbles": false
+      },
+      "imageLinks": {
+        "smallThumbnail": "http://books.google.com/books/content?id=VyQ-AAAAcAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=VyQ-AAAAcAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+      },
+      "language": "en",
+      "previewLink": "http://books.google.co.in/books?id=VyQ-AAAAcAAJ&pg=PP612&dq=a&hl=&as_brr=7&cd=3&source=gbs_api",
+      "infoLink": "https://play.google.com/store/books/details?id=VyQ-AAAAcAAJ&source=gbs_api",
+      "canonicalVolumeLink": "https://play.google.com/store/books/details?id=VyQ-AAAAcAAJ"
+    }
+  },
+  {
+    "kind": "books#volume",
+    "id": "6l8SAAAAIAAJ",
+    "etag": "WsYFe+YRtfA",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/6l8SAAAAIAAJ",
+    "volumeInfo": {
+      "title": "A Grammar of the French Language",
+      "subtitle": "With Practical Exercises",
+      "authors": [
+        "Nicolas Wanostrocht"
+      ],
+      "publishedDate": "1804",
+      "industryIdentifiers": [
+        {
+          "type": "OTHER",
+          "identifier": "NYPL:33433070239797"
+        }
+      ],
+      "readingModes": {
+        "text": false,
+        "image": true
+      },
+      "pageCount": 364,
+      "printType": "BOOK",
+      "categories": [
+        "French language"
+      ],
+      "maturityRating": "NOT_MATURE",
+      "allowAnonLogging": false,
+      "contentVersion": "0.1.2.0.full.1",
+      "panelizationSummary": {
+        "containsEpubBubbles": false,
+        "containsImageBubbles": false
+      },
+      "imageLinks": {
+        "smallThumbnail": "http://books.google.com/books/content?id=6l8SAAAAIAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=6l8SAAAAIAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+      },
+      "language": "en",
+      "previewLink": "http://books.google.co.in/books?id=6l8SAAAAIAAJ&pg=PA343&dq=a&hl=&as_brr=7&cd=4&source=gbs_api",
+      "infoLink": "https://play.google.com/store/books/details?id=6l8SAAAAIAAJ&source=gbs_api",
+      "canonicalVolumeLink": "https://play.google.com/store/books/details?id=6l8SAAAAIAAJ"
+    }
+  },
+  {
+    "kind": "books#volume",
+    "id": "yQktAAAAYAAJ",
+    "etag": "OUGHQTyZPH0",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/yQktAAAAYAAJ",
+    "volumeInfo": {
+      "title": "A Dictionary of the Portuguese and English Languages, in Two Parts",
+      "subtitle": "Portuguese and English, and English and Portuguese",
+      "authors": [
+        "Antonio Vieyra"
+      ],
+      "publishedDate": "1827",
+      "industryIdentifiers": [
+        {
+          "type": "OTHER",
+          "identifier": "HARVARD:HWSI42"
+        }
+      ],
+      "readingModes": {
+        "text": false,
+        "image": true
+      },
+      "printType": "BOOK",
+      "categories": [
+        "English language"
+      ],
+      "maturityRating": "NOT_MATURE",
+      "allowAnonLogging": false,
+      "contentVersion": "0.1.2.0.full.1",
+      "panelizationSummary": {
+        "containsEpubBubbles": false,
+        "containsImageBubbles": false
+      },
+      "imageLinks": {
+        "smallThumbnail": "http://books.google.com/books/content?id=yQktAAAAYAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=yQktAAAAYAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+      },
+      "language": "en",
+      "previewLink": "http://books.google.co.in/books?id=yQktAAAAYAAJ&pg=PP394&dq=a&hl=&as_brr=7&cd=5&source=gbs_api",
+      "infoLink": "https://play.google.com/store/books/details?id=yQktAAAAYAAJ&source=gbs_api",
+      "canonicalVolumeLink": "https://play.google.com/store/books/details?id=yQktAAAAYAAJ"
+    }
+  },
+  {
+    "kind": "books#volume",
+    "id": "BqwfG7ONuTkC",
+    "etag": "ekmEN0gPZjw",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/BqwfG7ONuTkC",
+    "volumeInfo": {
+      "title": "A dictionary of the Welsh language. [Preceded by] A grammar of the Welsh language. 2 vols. [in 3 pt.]. [Followed by] An outline of the characteristics of the Welsh. 2 vols. [in 4 pt.].",
+      "authors": [
+        "William Owen Pughe"
+      ],
+      "publishedDate": "1832",
+      "industryIdentifiers": [
+        {
+          "type": "OTHER",
+          "identifier": "OXFORD:600046655"
+        }
+      ],
+      "readingModes": {
+        "text": false,
+        "image": true
+      },
+      "printType": "BOOK",
+      "maturityRating": "NOT_MATURE",
+      "allowAnonLogging": false,
+      "contentVersion": "0.2.3.0.full.1",
+      "panelizationSummary": {
+        "containsEpubBubbles": false,
+        "containsImageBubbles": false
+      },
+      "imageLinks": {
+        "smallThumbnail": "http://books.google.com/books/content?id=BqwfG7ONuTkC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=BqwfG7ONuTkC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+      },
+      "language": "en",
+      "previewLink": "http://books.google.co.in/books?id=BqwfG7ONuTkC&pg=RA2-PA130&dq=a&hl=&as_brr=7&cd=6&source=gbs_api",
+      "infoLink": "https://play.google.com/store/books/details?id=BqwfG7ONuTkC&source=gbs_api",
+      "canonicalVolumeLink": "https://play.google.com/store/books/details?id=BqwfG7ONuTkC"
+    }
+  },
+  {
+    "kind": "books#volume",
+    "id": "SNADAAAAQAAJ",
+    "etag": "d49fKaE/VY8",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/SNADAAAAQAAJ",
+    "volumeInfo": {
+      "title": "A general dictionary of the English language; to which is prefixed, a comprehensive grammar",
+      "authors": [
+        "William Perry (of Edinburgh.)"
+      ],
+      "publishedDate": "1795",
+      "industryIdentifiers": [
+        {
+          "type": "OTHER",
+          "identifier": "OXFORD:590778475"
+        }
+      ],
+      "readingModes": {
+        "text": false,
+        "image": true
+      },
+      "printType": "BOOK",
+      "categories": [
+        "English language"
+      ],
+      "maturityRating": "NOT_MATURE",
+      "allowAnonLogging": false,
+      "contentVersion": "0.2.2.0.full.1",
+      "panelizationSummary": {
+        "containsEpubBubbles": false,
+        "containsImageBubbles": false
+      },
+      "imageLinks": {
+        "smallThumbnail": "http://books.google.com/books/content?id=SNADAAAAQAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=SNADAAAAQAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+      },
+      "language": "en",
+      "previewLink": "http://books.google.co.in/books?id=SNADAAAAQAAJ&pg=PP219&dq=a&hl=&as_brr=7&cd=7&source=gbs_api",
+      "infoLink": "https://play.google.com/store/books/details?id=SNADAAAAQAAJ&source=gbs_api",
+      "canonicalVolumeLink": "https://play.google.com/store/books/details?id=SNADAAAAQAAJ"
+    }
+  },
+  {
+    "kind": "books#volume",
+    "id": "9EI_AAAAcAAJ",
+    "etag": "J4OmtIfucVs",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/9EI_AAAAcAAJ",
+    "volumeInfo": {
+      "title": "A French and English dictionary",
+      "authors": [
+        "Randle Cotgrave"
+      ],
+      "publishedDate": "1673",
+      "industryIdentifiers": [
+        {
+          "type": "OTHER",
+          "identifier": "BCUL:1094800128"
+        }
+      ],
+      "readingModes": {
+        "text": false,
+        "image": true
+      },
+      "pageCount": 815,
+      "printType": "BOOK",
+      "maturityRating": "NOT_MATURE",
+      "allowAnonLogging": false,
+      "contentVersion": "0.3.3.0.full.1",
+      "panelizationSummary": {
+        "containsEpubBubbles": false,
+        "containsImageBubbles": false
+      },
+      "imageLinks": {
+        "smallThumbnail": "http://books.google.com/books/content?id=9EI_AAAAcAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=9EI_AAAAcAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+      },
+      "language": "en",
+      "previewLink": "http://books.google.co.in/books?id=9EI_AAAAcAAJ&pg=PP14&dq=a&hl=&as_brr=7&cd=8&source=gbs_api",
+      "infoLink": "https://play.google.com/store/books/details?id=9EI_AAAAcAAJ&source=gbs_api",
+      "canonicalVolumeLink": "https://play.google.com/store/books/details?id=9EI_AAAAcAAJ"
+    }
+  },
+  {
+    "kind": "books#volume",
+    "id": "yeUIAAAAQAAJ",
+    "etag": "gezgZkTiJ20",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/yeUIAAAAQAAJ",
+    "volumeInfo": {
+      "title": "A complete and universal English dictionary",
+      "authors": [
+        "James Barclay (curate of Edmonton.)"
+      ],
+      "publishedDate": "1792",
+      "industryIdentifiers": [
+        {
+          "type": "OTHER",
+          "identifier": "OXFORD:590053807"
+        }
+      ],
+      "readingModes": {
+        "text": false,
+        "image": true
+      },
+      "printType": "BOOK",
+      "averageRating": 4,
+      "ratingsCount": 1,
+      "maturityRating": "NOT_MATURE",
+      "allowAnonLogging": false,
+      "contentVersion": "1.8.5.0.full.1",
+      "panelizationSummary": {
+        "containsEpubBubbles": false,
+        "containsImageBubbles": false
+      },
+      "imageLinks": {
+        "smallThumbnail": "http://books.google.com/books/content?id=yeUIAAAAQAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=yeUIAAAAQAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+      },
+      "language": "en",
+      "previewLink": "http://books.google.co.in/books?id=yeUIAAAAQAAJ&pg=PP682&dq=a&hl=&as_brr=7&cd=9&source=gbs_api",
+      "infoLink": "https://play.google.com/store/books/details?id=yeUIAAAAQAAJ&source=gbs_api",
+      "canonicalVolumeLink": "https://play.google.com/store/books/details?id=yeUIAAAAQAAJ"
+    }
+  },
+  {
+    "kind": "books#volume",
+    "id": "NlEGAAAAQAAJ",
+    "etag": "6IVx4pjGXdY",
+    "selfLink": "https://www.googleapis.com/books/v1/volumes/NlEGAAAAQAAJ",
+    "volumeInfo": {
+      "title": "A View of the Coins at this Time Current Throughout Europe",
+      "subtitle": "Exhibiting the Figures of Near 300 on 25 Copper Plates, Together with Their Value, ... Intended for the Use of Travellers, ... By Thomas Snelling",
+      "authors": [
+        "Thomas Snelling"
+      ],
+      "publishedDate": "1766",
+      "industryIdentifiers": [
+        {
+          "type": "OTHER",
+          "identifier": "OXFORD:503789635"
+        }
+      ],
+      "readingModes": {
+        "text": false,
+        "image": true
+      },
+      "pageCount": 25,
+      "printType": "BOOK",
+      "categories": [
+        "Coinage"
+      ],
+      "maturityRating": "NOT_MATURE",
+      "allowAnonLogging": false,
+      "contentVersion": "0.4.4.0.full.1",
+      "panelizationSummary": {
+        "containsEpubBubbles": false,
+        "containsImageBubbles": false
+      },
+      "imageLinks": {
+        "smallThumbnail": "http://books.google.com/books/content?id=NlEGAAAAQAAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+        "thumbnail": "http://books.google.com/books/content?id=NlEGAAAAQAAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+      },
+      "language": "en",
+      "previewLink": "http://books.google.co.in/books?id=NlEGAAAAQAAJ&pg=RA4-PP4&dq=a&hl=&as_brr=7&cd=10&source=gbs_api",
+      "infoLink": "https://play.google.com/store/books/details?id=NlEGAAAAQAAJ&source=gbs_api",
+      "canonicalVolumeLink": "https://play.google.com/store/books/details?id=NlEGAAAAQAAJ"
+    }
+  }
+]
